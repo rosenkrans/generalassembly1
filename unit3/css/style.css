@@ -1,0 +1,13 @@
+body {
+	background-color: #D3D3D3;
+	text-align: center;
+}
+
+h1 {
+	color: blue;
+}
+
+#slogan {
+	font-style: italic;
+	font-size: 24px;
+}
