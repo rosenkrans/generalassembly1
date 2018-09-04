@@ -1,0 +1,35 @@
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Carter+One|Nothing+You+Could+Do');
+
+
+
+h1 {
+	color: blue;
+	font-family:'Carter One';
+}
+
+p {
+	font-family: 'Nothing You Could Do';
+	font-weight: 700;
+}
+
+#slogan {
+	font-style: italic;
+	font-size: 24px;
+	font-family: 'Nothing You Could Do';
+	font-weight: 700;
+}
+
+ul {
+	font-family: 'Nothing You Could Do';
+	font-weight: 800;
+}
+
+body {
+	background-color: #D3D3D3;
+	text-align: center;.
+}
