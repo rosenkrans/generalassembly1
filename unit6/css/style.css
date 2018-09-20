@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Carter+One|Nothing+You+Could+Do');
+
+#wholesite {
+	border: 2px solid white;
+	width: 100%;
+}
+
+header, .background1 {
+	background-color: #D3D3D3;
+	text-align: center;
+	border: 10px solid #D3D3D3;
+	height: 100vh;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: top;
+	padding: 24px;
+}
+
+.background2 {
+	background-color: #A9A9A9;
+	text-align: center;	
+	border: 10px solid #A9A9A9;
+	height: 100vh;
+}
+
+h1 {
+	color: black;
+	font-family:'Carter One';
+}
+
+h3 {
+	color: black;
+	font-family:'Carter One';
+}
+
+p {
+	font-family: 'Nothing You Could Do';
+	font-weight: 700;
+}
+
+#slogan {
+	font-style: italic;
+	font-size: 24px;
+	font-family: 'Nothing You Could Do';
+	font-weight: 700;
+}
+
+ul {
+	font-family: 'Nothing You Could Do';
+	font-weight: 800;
+	padding: 0;
+	list-style-type: none;
+}
+
+
+
+#cherry-tomatoes-image {
+	width: 20%;
+}
+
+.large-image {
+	width: 30%;
+}
+
+.small-image {
+	width: 25%;
+}
+
+.recipe-image {
+	width: 20%;
+}
+
+#recipes {
+	height: 100vh;
+}
+
+#mark-recipes {
+	border: 1px solid #D3D3D3;
+	padding: 50px;
+	float: left;
+	width: 40%;
+}
+
+#val-recipes {
+	border: 1px solid #D3D3D3;
+	padding: 50px;
+	float: right;
+	width: 40%;
+}
+
+.ingredients {
+	display: inline-block;
+	vertical-align: top;
+	padding: 15px;
+}
+
+
+
+#instructions {
+	width: 50%;
+	margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
