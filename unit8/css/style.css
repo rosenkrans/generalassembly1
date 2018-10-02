@@ -137,8 +137,20 @@ article {
 
 
 
+
+@media only screen and (max-width: 510px) {
+
+	h1 {
+		width: 40%;
+		padding-left: 140px;
+	}
+
 @media only screen and (max-width: 486px) {
 
+	h1 {
+		width: 40%;
+		padding-left: 130px;
+	}
 	#disc {
 		width: 50%;
 		padding-left: 90px;
