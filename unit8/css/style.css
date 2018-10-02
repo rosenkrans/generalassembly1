@@ -141,15 +141,15 @@ article {
 @media only screen and (max-width: 510px) {
 
 	h1 {
-		width: 40%;
-		padding-left: 140px;
+		width: 60%;
+		padding-left: 100px;
 	}
 
 @media only screen and (max-width: 486px) {
 
 	h1 {
-		width: 40%;
-		padding-left: 130px;
+		width: 60%;
+		padding-left: 900px;
 	}
 	#disc {
 		width: 50%;
